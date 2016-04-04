@@ -1,0 +1,20 @@
+[
+    {
+        "date":"2012-02-17",
+        "h":"Article header",
+        "tags":["um","dois","trais"],
+        "content":"<p>HAHHAA!!!!!</p>"
+    },
+    {
+        "date":"2012-02-17",
+        "h":"Article header",
+        "tags":["um","dois","trais"],
+        "content":"<p>HAHHAA!!!!!</p>"
+    },
+    {
+        "date":"2012-02-17",
+        "h":"Article header",
+        "tags":["um","dois","trais"],
+        "content":"<p>HAHHAA!!!!!</p>"
+    }
+]
